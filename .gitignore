@@ -1,0 +1,4 @@
+# Ignore sensitive data
+     *.env
+     *.key
+     /node_modules/
