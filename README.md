@@ -1,6 +1,6 @@
-# Lumina Foods: IoT & AI for Nutrition Security
+# Sambal Enterprise: IoT & AI for Nutrition Security
 
-   ![Lumina Logo](https://via.placeholder.com/150x50?text=Lumina+Foods) *(*Replace with your logo*)*
+   ![Lumina Logo](https://via.placeholder.com/150x50?text=Sambal+Enterprise) *(*Replace with your logo*)*
 
    ## Mission
    Open-source technology for:  
@@ -19,5 +19,5 @@
      - Q4 2025: Supply chain blockchain tracker  
 
    ## How to Engage
-   Contact: [tech@luminafoods.com](mailto:tech@luminafoods.com) | [Website](http://www.sambalent3.com.ng)  
+   Contact: [sambalenterprise@gmail.com]( sambalenterprise@gmail.com) | [Website](http://www.sambalent3.com.ng)  
    *"Reducing post-harvest losses, one solar-powered batch at a time."*
